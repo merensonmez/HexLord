@@ -1,40 +1,164 @@
 # HexLord
 
-HexLord is an online hex-based strategy and conquest game where every move matters. Expand your territory, manage your economy, defend your borders, and outplay real opponents in fast tactical matches.
+**HexLord** is an online hex-based strategy and conquest game where every move matters.
+
+Expand your territory, manage your economy, defend your borders, control the seas, and outplay real opponents in fast tactical multiplayer matches.
 
 Play now: [https://hexlord.com](https://hexlord.com)
 
-## What Is HexLord?
+---
 
-HexLord is built around clean tactical decision-making:
+## Overview
 
-- conquer new territory
-- protect your provinces
-- build your strength over time
-- pressure rivals on land and sea
-- win through smarter positioning and timing
+HexLord is a competitive strategy game built around clean tactical decision-making and readable map control.
 
-Whether you want a tense one-on-one match, a chaotic free-for-all, or larger team battles, HexLord is designed to stay readable, fast, and competitive.
+Players compete on a hex-based map by conquering territory, protecting provinces, growing their economy, and applying pressure at the right moment. Every decision affects your position, resources, and long-term survival.
 
-## Main Features
+Whether you prefer tense one-on-one duels, chaotic free-for-all matches, or larger team battles, HexLord is designed to be fast, strategic, and easy to understand without losing tactical depth.
 
-- Online multiplayer matches
-- Free-for-all and team-based battles
-- Strategy-focused hex map gameplay
-- Economy, defense, and expansion systems
-- Ships, coastal pressure, and map control
-- Smooth play experience on both web and mobile
+---
+
+## Key Features
+
+- **Online Multiplayer**  
+  Play against real opponents in live tactical matches.
+
+- **Hex-Based Strategy Gameplay**  
+  Make meaningful movement, expansion, and positioning decisions on a clean hex map.
+
+- **Territory Conquest**  
+  Expand your control by capturing new provinces and strengthening your borders.
+
+- **Economy Management**  
+  Build your strength over time and make smart resource decisions.
+
+- **Defensive Planning**  
+  Protect your provinces, prepare against attacks, and hold key positions.
+
+- **Free-for-All and Team Battles**  
+  Compete alone or coordinate with allies in larger strategic conflicts.
+
+- **Naval Gameplay**  
+  Use ships, coastal pressure, and sea control to influence the battlefield.
+
+- **Web and Mobile Support**  
+  Enjoy a smooth gameplay experience across desktop and mobile browsers.
+
+---
+
+## Gameplay
+
+In HexLord, victory comes from smart expansion, timing, and positioning.
+
+You will need to:
+
+- conquer nearby territory
+- defend vulnerable provinces
+- grow your economy
+- watch enemy movement
+- control important land and coastal areas
+- decide when to attack, defend, or expand
+- adapt your strategy against real players
+
+The game rewards careful planning, efficient moves, and tactical awareness.
+
+---
+
+## Game Modes
+
+HexLord supports multiple multiplayer formats:
+
+- **1v1 Matches**
+- **Free-for-All Battles**
+- **Team-Based Matches**
+
+Each mode creates a different strategic challenge, from direct duels to unpredictable multi-player conflicts.
+
+---
 
 ## Play Online
 
-The live version is available here:
+The live version of HexLord is available here:
 
 [https://hexlord.com](https://hexlord.com)
+
+No installation is required. Open the game in your browser and start playing.
+
+---
+
+## Screenshots
+
+> Screenshots can be added here to showcase the map, gameplay, and multiplayer interface.
+
+```md
+![HexLord Gameplay Screenshot](./screenshots/gameplay.png)
+![HexLord Map Control](./screenshots/map-control.png)
+```
+
+---
+
+## Why HexLord?
+
+HexLord focuses on strategy without unnecessary complexity.
+
+The goal is to create a game that is:
+
+- easy to learn
+- fast to play
+- competitive
+- tactical
+- readable
+- rewarding for smart decisions
+
+Every match is shaped by player choices, territory control, and timing.
+
+---
+
+## Project Status
+
+HexLord is actively available online and playable at:
+
+[https://hexlord.com](https://hexlord.com)
+
+Future updates may include new maps, improved balance, additional gameplay systems, and expanded multiplayer features.
+
+---
 
 ## Community
 
-If you enjoy tactical strategy games, territory control, and competitive multiplayer, HexLord is made for you.
+If you enjoy tactical strategy games, territory control, conquest gameplay, and competitive multiplayer battles, HexLord is made for you.
 
-Follow the project, share the game with friends, and jump into battle at:
+Share the game with friends, follow the project, and join the battle:
 
 [https://hexlord.com](https://hexlord.com)
+
+---
+
+## Contributing
+
+Contributions, feedback, and suggestions are welcome.
+
+If you find a bug, have an idea, or want to help improve HexLord, feel free to open an issue or submit a pull request.
+
+---
+
+## License
+
+This project’s license information can be added here.
+
+```md
+MIT License
+```
+
+---
+
+## Links
+
+- **Play HexLord:** [https://hexlord.com](https://hexlord.com)
+- **Website:** [https://hexlord.com](https://hexlord.com)
+
+---
+
+## HexLord
+
+Conquer. Defend. Expand. Outplay.
