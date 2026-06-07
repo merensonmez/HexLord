@@ -85,17 +85,9 @@ The live version of HexLord is available here:
 No installation is required. Open the game in your browser and start playing.
 
 ---
+## Screenshot
 
-## Screenshots
-
-> Screenshots can be added here to showcase the map, gameplay, and multiplayer interface.
-
-```md
 ![HexLord Gameplay Screenshot](./screenshots/gameplay.png)
-![HexLord Map Control](./screenshots/map-control.png)
-```
-
----
 
 ## Why HexLord?
 
