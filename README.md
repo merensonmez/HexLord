@@ -25,20 +25,6 @@ Whether you want a tense one-on-one match, a chaotic free-for-all, or larger tea
 - Ships, coastal pressure, and map control
 - Smooth play experience on both web and mobile
 
-## Language Support
-
-HexLord is designed to support multiple languages.
-
-- Default language: `English`
-- Language selection will switch the game interface accordingly
-- Planned supported languages include:
-  - English
-  - Turkish
-  - Spanish
-  - German
-
-More languages may be added over time.
-
 ## Play Online
 
 The live version is available here:
